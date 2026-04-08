@@ -1,0 +1,36 @@
+
+.sobre{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(14, 29, 236);
+    display: flex;
+    border-radius: 10px;
+    
+}
+body {
+    background-color: rgb(24, 8, 248);
+}
+.beatriz{
+    color: rgb(51, 16, 253);
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+img{
+    height: 120px;
+}
+.bia{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
